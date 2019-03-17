@@ -1,10 +1,15 @@
 *.iml
 *.idea
 *.log
-target
+.gradle/
 .classpath
 -project
 /.resourceCache
 /.project
 /.idea
 .settings/
+build/
+gradle/
+gradlew
+gradlew.bat
+out/
